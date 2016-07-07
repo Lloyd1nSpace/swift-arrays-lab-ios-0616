@@ -89,9 +89,9 @@ func lifesEssential (ingredients: [String]) -> Bool {
 /*: question10
  ### 10. Pass the 'shoppingList' array to the 'lifesEssential' function and print the result.
  */
-lifesEssential(shoppingList)
+print(lifesEssential(shoppingList))
 /*: question11
  ### 11. Pass the 'desertList' array to the 'lifesEssential' function and print the result.
  */
-lifesEssential(desertList)
+print(lifesEssential(desertList))
 //: On solution branch, there should be a link here to the solution file.
